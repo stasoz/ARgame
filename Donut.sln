@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donut", "Donut.csproj", "{BA8E6728-D465-7F44-5F55-14193C22BB6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donut.Editor", "Donut.Editor.csproj", "{9B54AAC2-CC64-5DFB-317C-0A757805657F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8E6728-D465-7F44-5F55-14193C22BB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8E6728-D465-7F44-5F55-14193C22BB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8E6728-D465-7F44-5F55-14193C22BB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8E6728-D465-7F44-5F55-14193C22BB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B54AAC2-CC64-5DFB-317C-0A757805657F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B54AAC2-CC64-5DFB-317C-0A757805657F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B54AAC2-CC64-5DFB-317C-0A757805657F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B54AAC2-CC64-5DFB-317C-0A757805657F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
